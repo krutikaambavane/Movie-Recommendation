@@ -1,0 +1,40 @@
+20 movies similar to Star Wars: Episode IV - A New Hope (1977) : 
+Star Wars: Episode V - The Empire Strikes Back (1980)  , Similarity Score : 0.630434782609
+
+Star Wars: Episode VI - Return of the Jedi (1983)  , Similarity Score : 0.582554517134
+
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)  , Similarity Score : 0.52994011976
+
+Back to the Future (1985)  , Similarity Score : 0.481375358166
+
+Matrix, The (1999)  , Similarity Score : 0.474530831099
+
+Toy Story (1995)  , Similarity Score : 0.438502673797
+
+Lord of the Rings: The Fellowship of the Ring, The (2001)  , Similarity Score : 0.427325581395
+
+Independence Day (a.k.a. ID4) (1996)  , Similarity Score : 0.409972299169
+
+Forrest Gump (1994)  , Similarity Score : 0.404444444444
+
+Indiana Jones and the Last Crusade (1989)  , Similarity Score : 0.403846153846
+
+Die Hard (1988)  , Similarity Score : 0.389937106918
+
+Lord of the Rings: The Two Towers, The (2002)  , Similarity Score : 0.388405797101
+
+Men in Black (a.k.a. MIB) (1997)  , Similarity Score : 0.386167146974
+
+Terminator, The (1984)  , Similarity Score : 0.385802469136
+
+Pulp Fiction (1994)  , Similarity Score : 0.385135135135
+
+Shawshank Redemption, The (1994)  , Similarity Score : 0.383908045977
+
+Terminator 2: Judgment Day (1991)  , Similarity Score : 0.38219895288
+
+Fargo (1996)  , Similarity Score : 0.380697050938
+
+Groundhog Day (1993)  , Similarity Score : 0.377643504532
+
+Godfather, The (1972)  , Similarity Score : 0.375350140056
